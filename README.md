@@ -77,9 +77,9 @@ Java SE 8
 
 ## Técnologias Usadas
 
-Lenguaje Java (JDK 1.8.0_241)
-IDE VSCode (Extension Pack for Java v0.25.13)
-API Fixer.io
+- Lenguaje Java (JDK 1.8.0_241)
+- IDE VSCode (Extension Pack for Java v0.25.13)
+- API Fixer.io
 
 
 ## Autor
